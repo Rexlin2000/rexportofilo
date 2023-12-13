@@ -477,6 +477,13 @@ img {
   display: block;
   background-color: var(--first-color);
 }
+skills_Reactjs{
+  width: 60%;
+}
+
+.skills_Tailwind{
+  width: 65%;
+}
 .skills_html{
   width: 70%;
 }
@@ -499,7 +506,7 @@ img {
   width: 45%;
 }
 .skills_hibernate{
-  width: 50%;
+  width: 70%;
 }
 .skills_msoffice{
   width: 85%;
@@ -513,6 +520,10 @@ img {
 .skills_inkscape{
   width: 95%;
 }
+.skills_Blender{
+  width: 60%;
+}
+
 .skills_close .skills_list{
   height: 0;
   overflow: hidden;
